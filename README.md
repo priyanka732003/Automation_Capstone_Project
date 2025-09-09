@@ -72,4 +72,4 @@ TestNG Report → test-output/index.html
 Cucumber Report → target/cucumber-reports.html  
 
 👨‍💻 Author  
-Your Name – Lakshmi Priyanka Bayyapuneni
+Lakshmi Priyanka Bayyapuneni
